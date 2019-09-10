@@ -40,7 +40,7 @@ namespace Logos
 
             // this writes the logo to the screen
 
-            g.DrawString("IKEA", drawFont, DrawBrush, this.Width / 2-70, this.Height / 2- 30);
+            g.DrawString("IKEA", drawFont, DrawBrush, this.Width / 2-70, this.Height / 2- 30);//
             //this is a test
         }
     }
